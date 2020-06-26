@@ -1,0 +1,13 @@
+0; C,E,C; C
+1; C#,F,C#; C#
+2; D,F#,D; D
+3; D#,G,D#; D#
+4; E,G#,E; E
+5; F,A,F; F
+6; F#,A#,F#; F#
+7; G,B,G; G
+8; G#,C,G#; G#
+9; A,C#,A; A
+10; A#,D,A#; A#
+11; B,D#,B; B
+12; C,E,C; C
